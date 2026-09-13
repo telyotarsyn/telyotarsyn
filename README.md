@@ -44,7 +44,7 @@ Adapted from internal research — no proprietary data or structures used.
 - Exported to ONNX for deployment
 - Evaluation: metrics, confusion matrix, class-based precision/recall
 
-[View Repository →](https://github.com/telyotarsyn/small-objects-classifier)
+[View Repository →](https://github.com/telyotarsyn/SOTA-small-object-classifier)
 
 ---
 
