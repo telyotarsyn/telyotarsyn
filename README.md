@@ -105,8 +105,8 @@ Reusable TensorFlow pipeline for image classification with public datasets.
 ## GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=telyotarsyn&show_icons=true&hide=issues&count_private=true&theme=default" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=telyotarsyn&layout=compact&theme=default" width="48%" />
+  <img src="https://img.shields.io/github/stars/telyotarsyn?label=Stars&style=for-the-badge&logo=github" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=telyotarsyn&theme=default" width="48%" />
 </div>
 
 <div align="center">
