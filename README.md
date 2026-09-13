@@ -89,7 +89,7 @@ Reusable TensorFlow pipeline for image classification with public datasets.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" title="Keras"/>
-  <img src="https://artwork.lfaidata.foundation/projects/onnx/stacked/color/onnx-stacked-color.png" width="40" title="ONNX"/>
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white" width="40" title="ONNX"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" title="OpenCV"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
